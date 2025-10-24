@@ -1,36 +1,59 @@
-# 🏆 **ICPC2T** — *Inspiring Innovation*
+# 🏆 **Official ICPC²T** — *Empowering Coders, Inspiring Innovation*
 
-[![Event](https://img.shields.io/badge/Event-ICPC%202025-blue)](https://icpc.global/)
+[![Event](https://img.shields.io/badge/Event-ICPC²T%202026-blue)](https://icpc2t.nitrr.ac.in/#/)
 [![Organization](https://img.shields.io/badge/Host-NIT%20Raipur-red)](https://nitrr.ac.in/)
-[![Theme](https://img.shields.io/badge/Theme-Coding%20%26%20Collaboration-green)](#)
+[![Theme](https://img.shields.io/badge/Theme-Power%2C%20Control%20%26%20Computing%20Technologies-green)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-> **ICPC2T** is the official **coding and training platform of NIT Raipur** for the **International Collegiate Programming Contest (ICPC)**.  
-> It serves as a **central hub for registration, contests, announcements, leaderboards, and training resources** for all participants under the ICPC2T initiative.  
+> **ICPC²T (International Conference on Power, Control and Computing Technologies)**  
+> is a **prestigious international conference** organized by the **Department of Electrical Engineering, NIT Raipur**.  
+> It serves as a **global platform** for researchers, professionals, and students to showcase innovations in power systems, automation, and computing technologies.  
 >
-> Developed and maintained by the **ICPC2T Tech Team**, it powers a seamless experience for contestants, mentors, and administrators alike.
+> The conference fosters **collaboration, learning, and knowledge sharing** between academia and industry.
 
 🌐 **Official Website:** [https://icpc2t.nitrr.ac.in/#/](https://icpc2t.nitrr.ac.in/#/)
 
+---
+
 ## 📸 **Conference Preview**
 
-![ICPC2T Conference Banner](https://user-images.githubusercontent.com/yourusername/yourimageid.png)
+![ICPC²T Conference Banner](https://icpc2t.nitrr.ac.in/assets/images/gallery/ICPC2T_Banner.png)
+
+---
+
+## ✨ **Event Overview**
+
+- 🗓 **Dates:** *March 11th – 13th, 2026 (Hybrid Conference)*  
+- 🏛 **Venue:** *Department of Electrical Engineering, NIT Raipur, Chhattisgarh, India*  
+- 🤝 **Organized by:** *Department of Electrical Engineering, NIT Raipur*  
+- ⚙️ **Technical Sponsors:** IEEE MP Section • IEEE Student Branch NIT Raipur • IAS / PELS IEEE  
+
+---
+
+## 🎯 **About the Conference**
+
+The **Fifth International Conference on Power, Control and Computing Technologies (ICPC²T-2026)** focuses on the **latest advances** in:  
+- Renewable and sustainable energy systems  
+- Power electronics and drives  
+- Control systems and robotics  
+- Communication networks  
+- Artificial intelligence and computing technologies  
+
+It provides a **hybrid platform** for researchers to present innovative ideas, exchange insights, and establish collaborations in modern technological frontiers.
 
 ---
 
 ## ✨ **Key Highlights**
 
-- 🧭 **Centralized Dashboard** – Unified access to announcements, schedules, and team details.  
-- ⚔️ **Contest Management** – Create, host, and monitor live coding contests.  
-- 📊 **Dynamic Leaderboards** – Real-time standings with advanced filtering.  
-- 📚 **Resource Hub** – Curated problem sets, tutorials, and ICPC archives.  
-- 🧑‍🤝‍🧑 **User Management** – Role-based access for participants, mentors, and admins.  
-- 🔐 **Secure Authentication** – Firebase-based login and role verification.  
-- 🖥 **Responsive UI/UX** – Optimized for all devices for smooth contest experiences.  
+- 🧠 **Keynote Sessions** – Talks by eminent researchers and industry leaders.  
+- 📘 **Technical Paper Presentations** – Peer-reviewed research in cutting-edge domains.  
+- 💡 **Workshops & Tutorials** – Hands-on sessions on advanced topics.  
+- 🧑‍🏫 **Student Paper Awards** – Recognition for innovation and excellence.  
+- 🌐 **Hybrid Mode** – Participate in-person or virtually from anywhere in the world.  
 
 ---
 
-## 🚀 **Tech Stack**
+## 🚀 **Tech Stack (for Website Platform)**
 
 | Frontend | Backend | Database | Hosting | Authentication |
 |-----------|----------|-----------|-----------|----------------|
@@ -38,46 +61,22 @@
 
 ---
 
-## ⚙️ **System Overview**
+## ⚙️ **Website Overview**
 
-1. **Frontend (React)**  
-   Interactive UI built using React and Tailwind CSS, ensuring responsive design for mobile and web users.  
-
-2. **Backend (Express + MongoDB)**  
-   Handles contest logic, user data, leaderboards, and communication with Firebase Auth.  
-
-3. **Authentication**  
-   Firebase handles secure login for contestants, admins, and mentors with role-based privileges.  
-
-4. **Live Contests**  
-   Seamless contest experience with auto-refresh leaderboards and real-time data sync.  
+1. **Homepage:** Overview of ICPC²T, event dates, and highlights.  
+2. **Committees:** Details of organizing, advisory, and technical committees.  
+3. **Call for Papers:** Guidelines, submission links, and important deadlines.  
+4. **Speakers:** Keynote speaker lineup and session topics.  
+5. **Program Schedule:** Full timetable for all sessions.  
+6. **Workshops & PPT Guidelines:** Registration and presentation resources.  
+7. **Downloads:** Partner details, travel information, and templates.  
+8. **Contact Page:** Communication channels for participants and sponsors.  
 
 ---
 
-## 📸 **Interface Preview**
-
-*(Add screenshots of dashboard, leaderboard, and contest pages here)*  
-
----
-
-## 🧑‍💻 **Getting Started**
+## 🧑‍💻 **Getting Started (For Developers)**
 
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/Nishantjha0007/Official-ICPC2T.git
 cd Official-ICPC2T
-2️⃣ Install Dependencies
-npm install
-
-3️⃣ Run the Development Server
-npm start
-
-4️⃣ Setup Environment Variables
-
-Create a .env file in the root directory with the following:
-
-REACT_APP_FIREBASE_API_KEY=your_firebase_api_key
-MONGO_URI=your_mongodb_connection_string
-
-5️⃣ Build for Production
-npm run build
