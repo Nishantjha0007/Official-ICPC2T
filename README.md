@@ -17,9 +17,10 @@
 
 ## 📸 Conference Preview
 
-> Official banner of the Fifth International Conference on Power, Control and Computing Technologies (ICPC²T-2026).
+> Official homepage of the Fifth International Conference on Power, Control and Computing Technologies (ICPC²T-2026).
 
-![ICPC²T Conference Banner](https://github.com/user-attachments/assets/f10330b5-c63f-4aa4-8121-6139540374db)
+![ICPC²T Homepage](https://github.com/user-attachments/assets/4c347437-2744-449a-9894-befaf5876c2b)
+
 
 ---
 
@@ -82,3 +83,18 @@ It provides a **hybrid platform** for researchers to present innovative ideas, e
 ```bash
 git clone https://github.com/Nishantjha0007/Official-ICPC2T.git
 cd Official-ICPC2T
+2️⃣ Install Dependencies
+npm install
+
+3️⃣ Run the Development Server
+npm start
+
+4️⃣ Setup Environment Variables
+
+Create a .env file in the root directory:
+
+REACT_APP_FIREBASE_API_KEY=your_firebase_api_key
+MONGO_URI=your_mongodb_connection_string
+
+5️⃣ Build for Production
+npm run build
