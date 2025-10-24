@@ -15,10 +15,11 @@
 
 ---
 
-## 📸 **Conference Preview**
+## 📸 Conference Preview
 
-![ICPC²T Conference Banner](https://icpc2t.nitrr.ac.in/assets/images/gallery/ICPC2T_Banner.png)
+> Official banner for the Fifth International Conference on Power, Control and Computing Technologies (ICPC²T-2026).
 
+![ICPC²T Banner](https://github.com/user-attachments/assets/c3c180c2-8e80-4bdf-820e-50cf17410304)
 ---
 
 ## ✨ **Event Overview**
