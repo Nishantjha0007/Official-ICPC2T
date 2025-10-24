@@ -14,7 +14,7 @@
 
 ## 📸 **Conference Preview**
 
-![ICPC2T Conference Banner](./48149ab7-22d8-4547-9c97-e3959d229c26.png)
+![ICPC2T Conference Banner](https://user-images.githubusercontent.com/yourusername/yourimageid.png)
 
 ---
 
