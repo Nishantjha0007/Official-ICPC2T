@@ -17,9 +17,10 @@
 
 ## 📸 Conference Preview
 
-> Official banner for the Fifth International Conference on Power, Control and Computing Technologies (ICPC²T-2026).
+> Official banner of the Fifth International Conference on Power, Control and Computing Technologies (ICPC²T-2026).
 
-![ICPC²T Banner](https://github.com/user-attachments/assets/c3c180c2-8e80-4bdf-820e-50cf17410304)
+![ICPC²T Conference Banner](https://github.com/user-attachments/assets/f10330b5-c63f-4aa4-8121-6139540374db)
+
 ---
 
 ## ✨ **Event Overview**
