@@ -15,15 +15,6 @@
 
 ---
 
-## 📸 Conference Preview
-
-> Official homepage of the Fifth International Conference on Power, Control and Computing Technologies (ICPC²T-2026).
-
-![ICPC²T Homepage](https://github.com/user-attachments/assets/4c347437-2744-449a-9894-befaf5876c2b)
-
-
----
-
 ## ✨ **Event Overview**
 
 - 🗓 **Dates:** *March 11th – 13th, 2026 (Hybrid Conference)*  
