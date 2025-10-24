@@ -1,4 +1,4 @@
-# 🏆 **Official ICPC2T** — *Empowering Coders, Inspiring Innovation*
+# 🏆 **ICPC2T** — *Inspiring Innovation*
 
 [![Event](https://img.shields.io/badge/Event-ICPC%202025-blue)](https://icpc.global/)
 [![Organization](https://img.shields.io/badge/Host-NIT%20Raipur-red)](https://nitrr.ac.in/)
@@ -11,6 +11,10 @@
 > Developed and maintained by the **ICPC2T Tech Team**, it powers a seamless experience for contestants, mentors, and administrators alike.
 
 🌐 **Official Website:** [https://icpc2t.nitrr.ac.in/#/](https://icpc2t.nitrr.ac.in/#/)
+
+## 📸 **Conference Preview**
+
+![ICPC2T Conference Banner](./48149ab7-22d8-4547-9c97-e3959d229c26.png)
 
 ---
 
