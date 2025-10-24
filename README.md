@@ -1,4 +1,4 @@
-# 🏆 **Official ICPC²T** — *Empowering Coders, Inspiring Innovation*
+# 🏆 **ICPC²T** — *Inspiring Innovation*
 
 [![Event](https://img.shields.io/badge/Event-ICPC²T%202026-blue)](https://icpc2t.nitrr.ac.in/#/)
 [![Organization](https://img.shields.io/badge/Host-NIT%20Raipur-red)](https://nitrr.ac.in/)
